@@ -8,6 +8,7 @@ const studentSchema = new Schema({
     },
     age:{
         
+        
         type:Number,
         required:true
     },
